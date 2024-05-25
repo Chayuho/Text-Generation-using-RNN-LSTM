@@ -14,7 +14,7 @@ shakespeare 텍스트 데이터를 활용한 텍스트 생성모델 학습
 - hidden_size : 모델 hidden state 사이
 - num_layers : 모델 전체 레이어 
 - Learning rate : 0.001
-- Optimizer : SGD (momentum = 0.9)
+- Optimizer : ADAM
 - sub_sampling_ratio : validation 데이터 비율
 - text_len : 학습 입력 길이 
 
