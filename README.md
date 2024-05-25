@@ -32,7 +32,7 @@ shakespeare 텍스트 데이터를 활용한 텍스트 생성모델 학습
 - 학습, 검증 loss가 적절히 감소하고 있으므로, 과적합 없음
 
 ### Test Loss 및 Accuracy
-| shakespeare     | Training Loss      | Validation Loss  |
+| 50 epoch     | Training Loss      | Validation Loss  |
 |-----------|-----------|-----------|
 | RNN    | 1.5584     | 1.5631     |
 | LSTM   | **1.4876**     | **1.4917**     |
